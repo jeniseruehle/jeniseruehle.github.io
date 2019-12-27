@@ -1,11 +1,11 @@
 # Site settings
-author: Jenise Ruehle
-title: 
+author: J. Ruehle
+title: Research & Discovery
 header-img: img/home-bg.png
 email: jela07@gmail.com
-copyright_name: Jenise Ruehle
+copyright_name: J. Ruehle
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Notes along my coding journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jeniseruehle

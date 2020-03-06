@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Progress in Ruby"
+title:      "BackToRuby"
 date:       2020-03-06 16:58:02 -0500
 permalink:  backtoruby
 ---
@@ -22,20 +22,20 @@ Once that was done, I needed to put my newly formatted emails into an array and 
 
 *Here's the actual code:*
 
-class EmailAddressParser
-  attr_accessor :csv_emails
+class EmailAddressParser<br>
+  attr_accessor :csv_emails<br><br>
   
-  def initialize(csv_emails)
-    @csv_emails = csv_emails
-  end
+  def initialize(csv_emails)<br>
+    @csv_emails = csv_emails<br>
+  end<br><br>
   
-  def parse
-    csv_emails.split.collect do |email|
-      email.split(',')
-  end 
-    .flatten.uniq
-  end   
-end 
+  def parse<br>
+    csv_emails.split.collect do |email|<br>
+      email.split(',')<br>
+  end<br> 
+    .flatten.uniq<br>
+  end<br>   
+end<br>
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "BackToRuby"
-date:       2020-03-06 21:58:01 +0000
+date:       2020-03-06 16:58:02 -0500
 permalink:  backtoruby
 ---
 

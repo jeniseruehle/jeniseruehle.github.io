@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "BackToRuby"
+title:      "Progress in Ruby"
 date:       2020-03-06 16:58:02 -0500
 permalink:  backtoruby
 ---

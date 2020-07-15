@@ -22,9 +22,9 @@ Pretty simple right? Well, coding the cardset menu and getting it to run was a p
 
 ![](https://media2.giphy.com/media/pWIak75z5nNWU/200.gif)
 
-Then came the actual scraping of information... at first I couldn't decide how and what exactly I wanted to scrape and after many failed attempts, I almost decided to ONLY scrape the 22 Major Arcana cards. I spent several hours for a few days not returning much of anything and then the despair set in followed by the doubt and procrastination monsters. I gave myself all kinds of excuses - I had to work, I had housework, I had banana bread to bake... all the while knowing there was no way I could escape this project and I certainly couldn't give up.
+Then came the actual scraping of information... at first I couldn't decide how and what exactly I wanted to scrape and after many failed attempts, I almost decided to *only* scrape the 22 Major Arcana cards. I spent several days not returning much of anything and then the despair set in followed by the doubt and procrastination monsters. I gave myself all kinds of excuses - I had to work, I had housework, I had banana bread to bake... all the while knowing there was no way I could escape this project and I certainly could not give up.
 
-I finally had a moment where I could not avoid it any longer, I had to buckle down and just work my way through it. I rewatched the videos, went back over all my notes in detail, and reviewed the Music CLI, Student Scraper and Kickstarter labs. When I really got into it, it took me almost a full day to get my scrape to work but it DID work and I was in awe. From that moment on, it was all a matter of figuring out how to get everything else to work properly.
+I finally had a moment where I could not avoid it any longer, I had to buckle down and just work my way through it. I rewatched the videos, went back over all my notes in detail, and reviewed the Music CLI, Student Scraper, and Kickstarter labs. When I really got into it, it took me a full day to get my scrape to work but it DID work and I was in awe. From that moment on, it was all a matter of figuring out how to get everything else to work properly.
 
 My biggest issue was once I got the information to scrape and display properly, three of my cardsets kept returning a '404 Not Found (OpenURI::HTTPError)'...
 

@@ -72,7 +72,7 @@ And don't forget to put the `auth` method in the `private` section:
     end
 ```
 
-Next, I made sure the correct paths were set up in **config/routes.rb**, so I could actually access the controller logic (this a bit I found on stack overflow and it was pretty essential for me to get my links to both `get` AND `post` -- before this, I kept getting **Routing Error:: No route matches [GET] "auth/facebook"** on my login links - I'll get to this next):
+Next, I made sure the correct paths were set up in **config/routes.rb**, so I could actually access the controller logic (this bit I found on Stack Overflow and it was pretty essential for me to get my links to both `get` AND `post` -- before this, I kept getting **Routing Error:: No route matches [GET] "auth/facebook"** on my login links - I'll get to this next):
 
 ```
 match '/auth/:provider/callback' => 'sessions#create', via: [:get, :post]

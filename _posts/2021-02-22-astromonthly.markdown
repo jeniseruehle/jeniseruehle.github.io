@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Astromonthly"
-date:       2021-02-22 23:02:46 +0000
+date:       2021-02-22 18:02:47 -0500
 permalink:  astromonthly
 ---
 
@@ -81,7 +81,7 @@ match '/auth/:provider/callback' => 'sessions#create', via: [:get, :post]
 Almost there! After my route was set up, it was time to see if it all actually worked by putting a link in my views. My link is on the Login page under my Session view and I set it up like:
 
 ```
-<%= link_to "Log in with Facebook!", '/auth/facebook', method: :post %><br><br>
+<%= link_to "Log in with Facebook!", '/auth/facebook', method: :post %>
 ```
 
 And finally it's done! I was able to successfully log in with my brand new Facebook Account and start using my web app.

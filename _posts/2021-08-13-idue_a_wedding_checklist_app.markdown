@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "iDue, a wedding checklist app"
-date:       2021-08-13 16:23:15 +0000
+title:      "iDue, a wedding checklist"
+date:       2021-08-13 12:23:16 -0400
 permalink:  idue_a_wedding_checklist_app
 ---
 

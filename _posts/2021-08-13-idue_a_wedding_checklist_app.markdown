@@ -6,7 +6,7 @@ permalink:  idue_a_wedding_checklist_app
 ---
 
 
-For my javascript project, I decided to build a wedding checklist app to help plan the big day! 
+For my JavaScript project, I decided to build a wedding checklist app to help plan the big day! 
 
 When I got married 3 years ago, I was warned about how stressful it would be and what things could go wrong but to my surprise planning our wedding  was actually a really fun process (probably because I am someone who loves planning, checklists, and organizing... it also didn't hurt that I had some experience in event planning lol.) 
 

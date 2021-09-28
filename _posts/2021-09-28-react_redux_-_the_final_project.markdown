@@ -1,13 +1,15 @@
 ---
 layout: post
 title:      "React/Redux - The Final Project"
-date:       2021-09-28 17:35:41 +0000
+date:       2021-09-28 13:35:41 -0400
 permalink:  react_redux_-_the_final_project
 ---
 
 I almost cannot believe I'm writing this today - I am finally here, the final portfolio project. I struggled a lot with JavaScript live coding, so much so, that I was afraid that I would not be able to complete React/Redux coursework and build the final project on time!
 
 For my final project, I wanted to expand on my earlier Rails app, AstroMonthly - and after some brainstorming, <b>AstroDaily</b> was born. AstroDaily is an app for astrologers and astrology enthusiasts to track and journal about their experiences during different planetary transits. Right now, it includes transits of the Sun, Moon, & Mercury (but will expand to include Venus, Mars, Jupiter, & Saturn - the app will not include the outer planets mainly because their transits are slow that it they take 80+ years or more to complete a full cycle around the Sun - meaning those planets can stick around in a area of the natal chart for a while making it harder for those experiences to make themselves fully realized and are usually more visible on a societal/generational level).
+
+![](https://i.imgur.com/Fr6TMRz.png)
 
 Building this project was daunting but my passion for the subject also made working on it fun and kept me motivated - I now realize why it's beneficial to work on something you love, it can definitely keep you going even through the rough patches!
 
